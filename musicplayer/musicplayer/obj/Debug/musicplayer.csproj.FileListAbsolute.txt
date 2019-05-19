@@ -1,0 +1,181 @@
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\obj\Debug\musicplayer.csprojResolveAssemblyReference.cache
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\obj\Debug\musicplayer.musiclist_info.resources
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\obj\Debug\musicplayer.music_login.resources
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.Cache
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+c:\users\asrock\documents\visual studio 2017\Projects\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\obj\Debug\musicplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\obj\Debug\musicplayer.musiclist_info.resources
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\obj\Debug\musicplayer.music_info.resources
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\obj\Debug\musicplayer.music_login.resources
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.Cache
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\ASRock\Desktop\我ㄉ新增資料夾\上課講義\大二下\net實作\musicplayer\musicplayer\obj\Debug\musicplayer.add_list.resources
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.csprojResolveAssemblyReference.cache
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.add_list.resources
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.musiclist_info.resources
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.music_info.resources
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.music_login.resources
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.cache
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.CoreCompileInputs.cache
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\FJUCP\Desktop\musicplayer-20180606T011839Z-001\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.add_list.resources
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.musiclist_info.resources
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.music_info.resources
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.music_login.resources
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.Cache
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\ASRock\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\user\Desktop\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\user\Desktop\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\user\Desktop\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.add_list.resources
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.music_info.resources
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.Login.resources
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.SignIn.resources
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.SignUp.resources
+C:\Users\user\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.MusicList.resources
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.csprojAssemblyReference.cache
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.MusicList.resources
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.Login.resources
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.SignIn.resources
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.SignUp.resources
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.cache
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.CoreCompileInputs.cache
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.AddList.resources
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.Lists.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.AddList.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.MusicList.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.Lists.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.Login.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.SignIn.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.SignUp.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.Choose.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.Drama.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\obj\Debug\musicplayer.Rent.resources
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\bin\Debug\MyDB.mdf
+C:\Users\user\Desktop\UNIVERSITY\1062\NET\FINAL\musicplayer\musicplayer\bin\Debug\MyDB_log.ldf
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\bin\Debug\MyDB.mdf
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\bin\Debug\MyDB_log.ldf
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.Choose.resources
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.Drama.resources
+C:\Users\Lin iris\Desktop\musicplayer\musicplayer\obj\Debug\musicplayer.Rent.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\bin\Debug\MyDB.mdf
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\bin\Debug\MyDB_log.ldf
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.AddList.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.Choose.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.Drama.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.MusicList.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.Lists.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.Login.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.Rent.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.SignIn.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.SignUp.resources
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\user\Desktop\0622\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\bin\Debug\MyDB.mdf
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\bin\Debug\MyDB_log.ldf
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.AddList.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Choose.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Drama.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.MusicList.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Lists.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Login.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Rent.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.SignIn.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.SignUp.resources
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\user\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\bin\Debug\MyDB.mdf
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\bin\Debug\MyDB_log.ldf
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.csprojResolveAssemblyReference.cache
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.AddList.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Choose.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Drama.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.MusicList.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Lists.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Login.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.Rent.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.SignIn.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.SignUp.resources
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.Cache
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\ASRock\Desktop\0622改\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\bin\Debug\MyDB.mdf
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\bin\Debug\MyDB_log.ldf
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\bin\Debug\musicplayer.exe.config
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\bin\Debug\musicplayer.exe
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\bin\Debug\musicplayer.pdb
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.AddList.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.Choose.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.Drama.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.MusicList.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.Lists.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.Login.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.Properties.Resources.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.Rent.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.SignIn.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.SignUp.resources
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.exe
+C:\Users\user\Desktop\MusicDrama\musicplayer\musicplayer\obj\Debug\musicplayer.pdb
